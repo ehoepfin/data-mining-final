@@ -1,0 +1,6 @@
+This project was accomplished with a group for CSCI 6380- Data Mining. We used machine learning techniques such as linear regression, bagging, and a neural network. 
+To run the code, you need to import pandas and sklearn. You also need to unzip "FinalProjectDataset.csv". Make sure the .py file is in the same directory as the .csv file. 
+This project may take a while to run, as the data is pretty large.
+
+See the final project report to read more about our research, preprocessing, model descriptions. 
+
